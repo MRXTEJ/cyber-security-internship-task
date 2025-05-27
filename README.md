@@ -35,19 +35,3 @@
 ### ✅ Conclusion:
 This email is a phishing attempt. It uses spoofed sender information, urgent language, suspicious attachments, and grammar mistakes to trick recipients into clicking a malicious link and possibly downloading malware.
 
----
-
-### 📸 Screenshots (Optional):
-Include screenshots of:
-- The email
-- Hovered link
-- Header analysis (from tools like mxtoolbox.com or Google Header Analyzer)
-
----
-
-### 🔗 GitHub Submission:
-- Create a GitHub repository named `phishing-email-analysis`
-- Upload this `README.md`
-- Add any screenshots or extra files used for analysis
-- Submit the GitHub repo link using the form:
-  [https://forms.gle/8Gm83s53KbyXs3Ne9](https://forms.gle/8Gm83s53KbyXs3Ne9)
