@@ -1,0 +1,26 @@
+# Task 5: Network Traffic Analysis using Wireshark
+
+## Objective:
+Capture and analyze network packets.
+
+## Tools Used:
+- Wireshark
+
+## Steps Performed:
+1. Installed Wireshark
+2. Captured packets
+3. Filtered and identified protocols
+
+## Protocols Identified:
+- **DNS**: Resolves domain names to IP addresses.
+- **HTTP**: Used for web communication.
+- **TCP**: Reliable transport layer protocol.
+
+## Sample Packet Analysis:
+- DNS Query: A request to resolve `neverssl.com`.
+- HTTP GET: Request to load `neverssl.com`.
+- TCP SYN: Connection initiation packet.
+
+## Outcome:
+Learned how to use Wireshark for basic packet analysis.
+
